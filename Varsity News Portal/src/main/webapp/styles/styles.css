@@ -1,0 +1,64 @@
+*	{
+	padding: 0;
+	outline: 0;
+	margin: 0;
+}
+
+ul	{
+	list-style-type: none;
+}
+
+ul li {
+	cursor: pointer;
+}
+
+#header	{
+	width: 100%;
+	height: 30px;
+	border: 1px solid black;
+}
+
+#logo	{
+	float: left;
+	width: 20%;
+	height: 100%;	
+}
+
+	#logoImage	{
+		width: 100%;
+		height: 100%;
+	}
+
+#searchBar	{
+	float: left;
+	width: 30%;
+	height: 100%;
+}
+
+	#searchBox	{		
+		width: 80%;
+		height: 100%;
+	}
+
+	#searchButton	{		
+		width: 18%;
+		height: 100%;
+	}
+
+#profileMenu	{
+	float: right;
+	width: 25%;
+	height: 100%;		
+	padding-right: 10px;
+}
+
+	#profileMenu ul {
+		text-align: right;
+		margin-top: 3px;	
+		width: 100%;				
+	}
+
+	#profileMenu ul li {		
+		display: inline;
+		border-bottom: 1px solid black;
+	}
