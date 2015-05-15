@@ -8,6 +8,7 @@ I have started this project to implement all the java web technologies that I'm 
   - Maven
   - MVC
   - Singleton design pattern
+  
 Right now I'm working on the back end. To monitor all my back end works I've used a downloaded template(html,css,js). But sooner I will be working on the front end from the begining to make it more organized.
 
 **Features that I've implemented till now**
@@ -15,7 +16,7 @@ Right now I'm working on the back end. To monitor all my back end works I've use
   - Register as an user
   - Log in as an user
   - Make a home view for general user (without registered account)
-  To be continued...
+  - To be continued...
 
 **Toold I've used so far**
 
@@ -24,4 +25,4 @@ Right now I'm working on the back end. To monitor all my back end works I've use
   - RDBMS: MySql
   - IDE: IntelliJ IDEA
 
-*I've also used this project as an academic project for the course 'java networking programming'*
+*I've also used this project as an academic project for the course 'network programming'*
