@@ -12,6 +12,13 @@ ul li {
 	cursor: pointer;
 }
 
+img {
+	width: 100%;
+	height: 100%;
+}
+
+/*headerView Styles Begin*/
+
 #header	{
 	width: 100%;
 	height: 30px;
@@ -23,11 +30,6 @@ ul li {
 	width: 20%;
 	height: 100%;	
 }
-
-	#logoImage	{
-		width: 100%;
-		height: 100%;
-	}
 
 #searchBar	{
 	float: left;
@@ -62,3 +64,93 @@ ul li {
 		display: inline;
 		border-bottom: 1px solid black;
 	}
+
+/*homeView Styles Begin*/
+
+#homeBody	{
+	width: 100%;
+	height: 1000px;
+	border: 1px solid black;
+}
+
+	#sideBar	{
+		width: 20%;
+		height: 100%;
+		float: left;
+		border: 1px solid red;
+	}
+
+	#mainBody	{
+		width: 75%;
+		height: 100%;
+		float: right;
+		border: 1px solid green;
+	}
+
+		#newsBox	{
+			width: 100%;
+			height: 200px;
+			border: 1px solid red;
+		}
+
+			#newsImage	{
+				width: 25%;
+				height: 100%;
+				float: left;
+				border: 1px solid blue;
+			}
+
+			#newsSummery	{
+				width: 74%;
+				height: 100%;
+				float: right;
+				border: 1px solid blue;
+			}
+
+				#topNewsSummery	{
+					width: 100%;
+					height: 10%;
+					border: 1px solid blue;
+				}
+
+					#topNewsSummeryLeft	{
+						float: left;
+						width: 60%;
+						height: 100%;
+					}
+
+					#topNewsSummeryRight	{
+						float: right;
+						width: 35%;
+						height: 100%;
+						text-align: right;
+					}
+
+				#midNewsSummery	{
+					width: 100%;
+					height: 10%;
+					text-align: left;
+					border: 1px solid black;
+				}
+
+					#midNewsSummeryLeft	{
+						float: left;
+						width: 49%;
+						height: 100%;
+						text-align: left;						
+					}
+
+					#midNewsSummeryRight	{
+						float: right;
+						width: 49%;
+						height: 100%;
+						text-align: right;						
+					}
+
+				#bottomNewsSummery	{
+					width: 100%;
+					height: 78%;
+					text-align: justify;
+					border: 1px solid red;
+					overflow: hidden;
+				}
