@@ -2,7 +2,7 @@
 
 **Present Situation**
 
-I have started this project to implement all the java web technologies that I'm learning through. Till no I've used,
+I have started this project to implement all the java web technologies that I'm learning through. Till now I've used,
   - Servlet
   - JSP
   - Maven
