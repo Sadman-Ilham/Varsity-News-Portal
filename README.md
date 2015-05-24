@@ -18,7 +18,7 @@ Right now I'm working on the back end. To monitor all my back end works I've use
   - Make a home view for general user (without registered account)
   - To be continued...
 
-**Toold I've used so far**
+**Tools I've used so far**
 
   - Language: Java
   - Technologies: Servlet, JSP, Maven.
